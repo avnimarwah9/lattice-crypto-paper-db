@@ -1,0 +1,46 @@
+paper_id,title,year,venue,field
+1,"On Lattices, Learning with Errors, Random Linear Codes, and Cryptography",2005,STOC,Lattice Cryptography
+2,Trapdoors for Hard Lattices and New Cryptographic Constructions,2008,STOC,Lattice Cryptography
+3,"Bonsai Trees, or How to Delegate a Lattice Basis",2010,EUROCRYPT,Lattice Cryptography
+4,Efficient Lattice (H)IBE in the Standard Model,2010,EUROCRYPT,Identity-Based Encryption
+5,Lattice Basis Delegation in Fixed Dimension and Shorter-Ciphertext Hierarchical IBE,2010,CRYPTO,Identity-Based Encryption
+6,Fully Homomorphic Encryption Using Ideal Lattices,2009,STOC,Homomorphic Encryption
+7,Fully Homomorphic Encryption over the Integers,2010,EUROCRYPT,Homomorphic Encryption
+8,Attribute-Based Encryption for Fine-Grained Access Control of Encrypted Data,2006,CCS,Attribute-Based Encryption
+9,Attribute-Based Encryption for Circuits,2013,STOC,Attribute-Based Encryption
+10,Attribute-Based Encryption for Circuits from Multilinear Maps,2013,CRYPTO,Attribute-Based Encryption
+11,Unbounded HIBE and Attribute-Based Encryption,2011,EUROCRYPT,Attribute-Based Encryption
+12,"Homomorphic Encryption from Learning with Errors: Conceptually-Simpler, Asymptotically-Faster, Attribute-Based",2013,CRYPTO,Homomorphic Encryption
+13,"Fully Key-Homomorphic Encryption, Arithmetic Circuit ABE and Compact Garbled Circuits",2014,EUROCRYPT,Attribute-Based Encryption
+14,Riding on Asymmetry: Efficient ABE for Branching Programs,2015,ASIACRYPT,Attribute-Based Encryption
+15,Ciphertext-Policy Attribute-Based Encryption from Lattices,2012,AsiaCCS,Attribute-Based Encryption
+16,Implementation and Evaluation of a Lattice-Based Key-Policy ABE Scheme,2018,IEEE TIFS,Attribute-Based Encryption
+17,Practical Applications of Improved Gaussian Sampling for Trapdoor Lattices,2019,IEEE Transactions on Computers,Lattice Cryptography
+18,On Ideal Lattices and Learning with Errors over Rings,2010,EUROCRYPT,Lattice Cryptography
+19,A Decade of Lattice Cryptography,2016,Foundations and Trends in TCS,Lattice Cryptography
+20,CRYSTALS-Kyber: A CCA-Secure Module-Lattice-Based KEM,2018,IEEE EuroS&P,Post-Quantum Cryptography
+21,CRYSTALS-Dilithium: A Lattice-Based Digital Signature Scheme,2018,IACR TCHES,Post-Quantum Cryptography
+22,NewHope without Reconciliation,2016,IACR ePrint,Post-Quantum Cryptography
+23,Classic McEliece: Conservative Code-Based Cryptography,2017,NIST PQC Submission,Post-Quantum Cryptography
+24,FrodoKEM: Practical Quantum-Secure Key Encapsulation from Generic Lattices,2017,NIST PQC Submission,Post-Quantum Cryptography
+25,SABER: Mod-LWR Based KEM (Round 3 Submission),2020,NIST PQC Submission,Post-Quantum Cryptography
+26,Status Report on the Third Round of the NIST Post-Quantum Cryptography Standardization Process,2022,NIST IR 8413,Post-Quantum Cryptography
+27,"Module-LWE versus Ring-LWE, Revisited",2017,IACR ePrint,Lattice Cryptography
+28,Worst-Case to Average-Case Reductions Based on Gaussian Measures,2007,SIAM J. Computing,Lattice Cryptography
+29,Generating Hard Instances of Lattice Problems,1996,STOC,Lattice Cryptography
+30,Public-Key Cryptosystems from the Worst-Case Shortest Vector Problem,2009,STOC,Lattice Cryptography
+31,Better Key Sizes (and Attacks) for LWE-Based Encryption,2011,CT-RSA,Lattice Cryptography
+32,A Toolkit for Ring-LWE Cryptography,2013,EUROCRYPT,Lattice Cryptography
+33,Candidate Multilinear Maps from Ideal Lattices,2013,EUROCRYPT,Multilinear Maps
+34,Predicate Encryption for Circuits from LWE,2015,CRYPTO,Attribute-Based Encryption
+35,Functional Encryption: New Perspectives and Lower Bounds,2013,CRYPTO,Functional Encryption
+36,Witness Encryption and Its Applications,2013,STOC,Functional Encryption
+37,Revisiting BGG+14 ABE with Weakness Analysis,2019,IET Information Security,Attribute-Based Encryption
+38,Attribute-Based Encryption for Circuits of Unbounded Depth from Lattices,2023,FOCS,Attribute-Based Encryption
+39,Lattice Codes for CRYSTALS-Kyber,2025,"Designs, Codes and Cryptography",Post-Quantum Cryptography
+40,A Survey of Lattice-Based Expressive Attribute-Based Encryption,2021,Computer Science Review,Attribute-Based Encryption
+41,Multi-Authority Attribute-Based Encryption,2007,TCC,Attribute-Based Encryption
+42,Identity-Based Encryption from the Weil Pairing,2001,CRYPTO,Identity-Based Encryption
+43,Hierarchical Identity Based Encryption with Constant Size Ciphertext,2005,EUROCRYPT,Identity-Based Encryption
+44,Decentralized Multi-Authority ABE for DNFs from LWE,2021,EUROCRYPT,Attribute-Based Encryption
+45,Ciphertext-Policy ABE for NC1 Circuits with Constant-Size Ciphertexts from Succinct LWE,2024,IACR ePrint,Attribute-Based Encryption
